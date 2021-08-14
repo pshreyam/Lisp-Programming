@@ -23,4 +23,4 @@
 (delete-package mini_project)
 
 (in-package mini_project)
-(mini_project)
+(start)
